@@ -1,2 +1,2 @@
 # devendra
-thsi is a demo code of a project
+thsi is a demo code of a project.
